@@ -49,11 +49,17 @@ The logistic regression model achieved an accuracy of 65.59% in predicting playe
 However, the model's performance is not consistent across both categories, with some instances of misclassification.
 
 Project Files
+Tableau link for  my data visualizations that i retrieved from: https://public.tableau.com/app/profile/jo.o.miguel.cortez.sobral/viz/Pokerplayersanalysis/Dashboard1
 
 Poker Playbook Analysis.ipynb: Notebook where i perfomed all the data cleaning, EDA, Hypothesis Testing, regression model and conclusions.
+
 Poker statistics dictionary.rtf: File containing the explanation for all the variables related to poker statistics presented in the project.
+
 README.md: This document providing an overview of the project, its objectives, methodology, and key findings.
+
 Poker Playbook Analysis presentation (2).pdf: PDF used for the presentation of the project.
+
 mean_comparison.csv files: Files with differences in means of selected statistics on hypothesis testing  stating the values for Fishes and Sharks.
+
 Poker_data... (.csv) file: CSVs with different dataframes , filtered according to several aspects.
 
